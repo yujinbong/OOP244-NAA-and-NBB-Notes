@@ -1,9 +1,16 @@
 # OOP244 NAA and NBB Notes
+## IPC144 Review Session  for OOP244 Students
+The review session on IPC144/BTP100 wil be held on Sunday Jan 16th, 10 AM to As long as it takes. <br />
+This session is open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
+
+### Review Recordings
+review recording will be posted here.
+
 ## Active Session
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=yGOZUgM_M3VYdCtKncPj9BWtLzR2E8i6cPdRo8EkUWo&m=60a5fa80b6304825cc66a3f45a5b7e8ff17a243b&t=1641915190291&u=senecacollege)
+[OOP244 active session by Fardad](https://teams.microsoft.com/l/meetup-join/19:e0T3jr_8Wn0gjWC-MPqwdhtq1GzYzDg-nqN-j6jIXsw1@thread.tacv2/1642008913733?context=%7B%22Tid%22:%22eb34f74a-58e7-4a8b-9e59-433e4c412757%22,%22Oid%22:%22d5920528-ffb9-4e62-a8d1-35029a8efab4%22%7D)
 ## Recordings of Previous Sessions
 
 ### NAA
@@ -22,12 +29,6 @@ Click on the link below to join: (See [my schedule](#fardads-schedule) for lectu
 | 9      | 15:20-16:10 |  DEV   |     |     |      |      |
 | 10     | 16:16-17:05 |  DEV   |     |     |      |      |
 
-## IPC144 Review Session  for OOP244 Students
-The review session on IPC144/BTP100 wil be held on Sunday Jan 16th, 10 AM to As long as it takes. <br />
-This session is open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
-
-### Review Recordings
-review recording will be posted here.
 
 # Computer preparation and Getting Workshop files
 ## Setting up your computers for OOP244
