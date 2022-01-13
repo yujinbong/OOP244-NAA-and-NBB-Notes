@@ -1,7 +1,7 @@
 # OOP244 NAA and NBB Notes
 ## IPC144 Review Session  for OOP244 Students
 The review session on IPC144/BTP100 wil be held on Sunday Jan 16th, 10 AM to As long as it takes. <br />
-This session is open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
+This session is open to all the students who need to review the 144 concepts before starting 244 subjects.<br />
 
 [Click here to join the Session]()
 
