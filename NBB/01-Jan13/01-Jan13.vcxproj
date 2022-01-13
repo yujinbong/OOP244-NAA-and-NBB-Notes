@@ -139,7 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="iotools.cpp" />
+    <ClCompile Include="item.cpp" />
     <ClCompile Include="prg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="items.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="iotools.h" />
+    <ClInclude Include="item.h" />
+    <ClInclude Include="student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
