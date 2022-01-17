@@ -15,7 +15,7 @@ Click on the link below to join: (See [my schedule](#fardads-schedule) for lectu
 
 ## IPC144 Review Session  for OOP244 Students
 The review session on IPC144/BTP100 was held on Sunday Jan 16th. <br />
-This session was open to all the students who need to review the 144 concepts before starting 244 subjects.<br />
+This session was open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
 
 ### Review Recording
 Since the lecture was several hours long, the video processing will take some time, The recording will be posted as soon as the video is ready.
