@@ -10,6 +10,7 @@ Click on the link below to join: (See [my schedule](#fardads-schedule) for lectu
 
 ### NAA
 - [Jan 14 - Object Oriented Design, namespaces, Modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/31dd7d7b3ac5e54b8056a006ad1585c1ff02b256-1642164124612/capture/)
+- [Jan 18 - Week 2 Types](https://recordings.rna2.blindsidenetworks.com/senecacollege/c9d02c6576f1b069b3808f382dd6a460c71a8483-1642520393828/capture/)
 ### NBB
 - [Jan 13 - Object Orient Design, namespaces, Modules](https://www.youtube.com/watch?v=OBqig7UQHj8)
 
