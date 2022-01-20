@@ -5,7 +5,7 @@
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=kAA8ahcCMr3NvD1Eibl5D-kgume3I4tUa2g0M0uddEI&m=60a5fa80b6304825cc66a3f45a5b7e8ff17a243b&t=1642520393713&u=senecacollege)
+[OOP244 active session by Fardad (Types, References and Overloading Dynamic Mem...)](https://connect.rna2.blindsidenetworks.com/invite/to?c=Y8J-tYauZ_EVvCKjVZtiS-pBAgddp7lPN28BaVd2zGU&m=60a5fa80b6304825cc66a3f45a5b7e8ff17a243b&t=1642689993073&u=senecacollege)
 ## Recordings of Previous Sessions
 
 ### NAA
