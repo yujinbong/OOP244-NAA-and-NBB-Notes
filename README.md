@@ -1,22 +1,26 @@
 # OOP244 NAA and NBB Notes
-## IPC144 Review Session  for OOP244 Students
-The review session on IPC144/BTP100 wil be held on Sunday Jan 16th, 10 AM to As long as it takes. <br />
-This session is open to all the students who need to review the 144 concepts before starting 244 subjects.<br />
 
-[Click here to join the Session]()
-
-### Review Recordings
-review recording will be posted here.
 
 ## Active Session
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=ed7cDgLr-C5umHZjUy8QkVNnZfy_zfOBn2wCndXS5sk&m=4b951e9ca5738b624e1363b751efba9cf4dd52a0&t=1642164124570&u=senecacollege)
+[OOP244 active session by Fardad (Types, References and Overloading Dynamic Mem...)](https://connect.rna2.blindsidenetworks.com/invite/to?c=Y8J-tYauZ_EVvCKjVZtiS-pBAgddp7lPN28BaVd2zGU&m=60a5fa80b6304825cc66a3f45a5b7e8ff17a243b&t=1642689993073&u=senecacollege)
 ## Recordings of Previous Sessions
 
 ### NAA
+- [Jan 14 - Object Oriented Design, namespaces, Modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/31dd7d7b3ac5e54b8056a006ad1585c1ff02b256-1642164124612/capture/)
+- [Jan 18 - Week 2 Types](https://recordings.rna2.blindsidenetworks.com/senecacollege/c9d02c6576f1b069b3808f382dd6a460c71a8483-1642520393828/capture/)
 ### NBB
+- [Jan 13 - Object Orient Design, namespaces, Modules](https://www.youtube.com/watch?v=OBqig7UQHj8)
+
+## IPC144 Review Session  for OOP244 Students
+The review session on IPC144/BTP100 was held on Sunday Jan 16th. <br />
+This session was open to all the students who needed to review the 144 concepts before starting 244 subjects.<br />
+
+### Review Recording
+Since the lecture was several hours long, the video processing will take some time, The recording will be posted as soon as the video is ready.
+
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
 |--------|-------------|-----|-----|-----|------|------|
