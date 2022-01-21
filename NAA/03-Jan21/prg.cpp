@@ -1,23 +1,19 @@
 #include <iostream>
 using namespace std;
-void line(char fill, int length) { // line_char_int
-   for (int i = 0; i < length; cout << fill, i++);
-   cout << endl;
-}
-void line(char fill) {   // line_char
-   line(fill, 75);
-}
-void line() {           // line
-   line('-');  // calling line_char
-}
-void line(int length) {  // line_int
-   line('-', length);
+
+int& ref(int& R) {
+   return R;
 }
 
+
 int main() {
-   line('^', 45);   // line_char_int
-   line('*');       // line_char
-   line();          // line 
-   line(50);        // line_int
+   int x;
+
+   ref(x)  = 35;   // ref(int& R = x);
+
+   cout << x << endl;
+   
+   cout << unsigned(&ref(x)) << " " << unsigned(&x) << endl;
+
    return 0;
 }
