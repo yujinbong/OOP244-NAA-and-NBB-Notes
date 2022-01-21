@@ -7,7 +7,7 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
 [OOP244 active session by Fardad (Types, References and Overloading Dynamic Mem...)](https://connect.rna2.blindsidenetworks.com/invite/to?c=OyFGqqS1Up1hdNmEY4vLkhKagHa2LAK9CQcEa7TB9PU&m=4b951e9ca5738b624e1363b751efba9cf4dd52a0&t=1642770055301&u=senecacollege)
 ## Recordings of Previous Sessions
-
+[Sample codes done in class](https://github.com/Seneca-244200/OOP244-NAA-and-NBB-Notes/tree/main/144100Review)
 ### NAA
 - [Jan 14 - Object Oriented Design, namespaces, Modules](https://recordings.rna2.blindsidenetworks.com/senecacollege/31dd7d7b3ac5e54b8056a006ad1585c1ff02b256-1642164124612/capture/)
 - [Jan 18 - Week 2 Types](https://recordings.rna2.blindsidenetworks.com/senecacollege/c9d02c6576f1b069b3808f382dd6a460c71a8483-1642520393828/capture/)
