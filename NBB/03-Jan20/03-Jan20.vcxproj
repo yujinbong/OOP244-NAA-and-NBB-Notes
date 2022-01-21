@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="09-StudentMain.cpp" />
     <ClCompile Include="prg.cpp" />
     <ClCompile Include="Student.cpp" />
   </ItemGroup>

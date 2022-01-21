@@ -10,7 +10,10 @@ namespace sdds {
       // behaviour
       void display();
    };
-  
+//#define MinMonPayment (20.5)
+   extern double MinMonPayment;  // makes the file scope
+                                       // variable, global to any 
+                                       // file including student.h
 }
 #endif // !SDDS_STUDENT_H
 
