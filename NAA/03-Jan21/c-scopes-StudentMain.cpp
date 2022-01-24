@@ -1,15 +1,12 @@
 #include <iostream>
 #include "Student.h"
+using namespace sdds;
 using namespace std;
-namespace sdds {
-   const double IntrestRate = 0.02; // file scope changed to global by added extern statement
-                                    // in student.h
-   void Student::display() {
-      cout << name << ", " << stNo 
-         << ", osap Loan: " << balance 
-         << "With the intrest rate of: " << balance* IntrestRate<< endl;
-   }
-
-
-
+int main() {
+   Student S = { "Fred", 123456, 1234.56 };
+   S.display();
+   cout << "And the min monthly payment is: " << MinMonPayment << endl;
+   MinMonPayment = 30.50;
+   cout << "And now the min monthly payment is: " << MinMonPayment << endl;
+   return 0;
 }
