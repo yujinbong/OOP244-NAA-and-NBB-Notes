@@ -5,7 +5,7 @@
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad (Dynamic Memory Allocation)](https://connect.rna2.blindsidenetworks.com/invite/to?c=z7UWUJcvb0EHnGcB4o_tqsXkg7rVkTxyLSsvmJLnA84&m=60a5fa80b6304825cc66a3f45a5b7e8ff17a243b&t=1643125570586&u=senecacollege)
+[OOP244 active session by Fardad (Dynamic Memory Allocation)](https://connect.rna2.blindsidenetworks.com/invite/to?c=RMUSUQN-nfttdAuOpc1rRQBPshTjyPpzA4ugTbjtGiA&m=4b951e9ca5738b624e1363b751efba9cf4dd52a0&t=1643218266590&u=senecacollege)
 ## Recordings of Previous Sessions
 [Sample codes done in class](https://github.com/Seneca-244200/OOP244-NAA-and-NBB-Notes/tree/main/144100Review)
 ### NAA
